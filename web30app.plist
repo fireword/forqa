@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://xinboa.com/web30app.ipa</string>
+					<string>https://github.com/fireword/forqa/blob/main/web30app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.tstop.ipa</string>
+				<string>com.reading.wang.books</string>
 			</dict>
 		</dict>
 	</array>
